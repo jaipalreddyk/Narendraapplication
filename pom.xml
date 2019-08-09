@@ -30,13 +30,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Jayapaul-releases</name>
-        <url>http://localhost:8081/artifactory/jayapal_devops</url>
+        <name>LAPTOP-64QO93AG-releases</name>
+        <url>http://localhost:8081/artifactory/qshore-release</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>Jayapaul-snapshots</name>
-        <url>http://localhost:8081/artifactory/jayapal_devops</url>
+        <name>LAPTOP-64QO93AG-snapshots</name>
+        <url>http://localhost:8081/artifactory/qshore-release</url>
     </snapshotRepository>
 </distributionManagement>
 
