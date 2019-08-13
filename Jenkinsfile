@@ -6,5 +6,10 @@ pipeline {
         echo 'This is minimal pipeline'
       }
     }
+    stage('Compile') {
+      steps {
+        bat 'compile'
+      }
+    }
   }
 }
