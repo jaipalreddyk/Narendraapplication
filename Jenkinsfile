@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('complie') {
+    stage('initialize') {
       steps {
-        bat 'compile'
+        echo 'This is minimal pipeline'
       }
     }
   }
