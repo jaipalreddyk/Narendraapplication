@@ -35,9 +35,14 @@
  <distributionManagement>
     <repository>
         <id>central</id>
-        <name>LAPTOP-64QO93AG-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release</url>
+        <name>DESKTOP-OQRBVPV-releases</name>
+        <url>http://localhost:8081/artifactory/jaipal-repo</url>
     </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>DESKTOP-OQRBVPV-snapshots</name>
+        <url>http://localhost:8081/artifactory/jaipal-repo</url>
+    </snapshotRepository>
 </distributionManagement>
 </project>
 
