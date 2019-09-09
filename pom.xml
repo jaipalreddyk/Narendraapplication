@@ -36,13 +36,13 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-OQRBVPV-releases</name>
-        <url>http://localhost:8081/artifactory/jaipal-repo</url>
+        <url>http://localhost:8081/artifactory/jaipal-snapshot-repo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-OQRBVPV-snapshots</name>
-        <url>http://localhost:8081/artifactory/jaipal-repo</url>
+        <url>http://localhost:8081/artifactory/jaipal-snapshot-repo</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement>>
 </project>
 
